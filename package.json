@@ -1,0 +1,23 @@
+{
+  "name": "better-lite-source",
+  "version": "1.0.0",
+  "description": "Spatialite feature source, now with better-sqlite3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/better-lite-source.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/better-lite-source/issues"
+  },
+  "homepage": "https://github.com/hfu/better-lite-source#readme",
+  "dependencies": {
+    "better-sqlite3": "^4.1.1",
+    "wkx": "^0.4.5"
+  }
+}
